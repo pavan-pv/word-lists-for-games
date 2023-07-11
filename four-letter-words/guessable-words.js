@@ -1,4 +1,4 @@
-export const words = [
+export const GUESSABLE_WORDS = [
   'aahs',
   'aals',
   'aani',
