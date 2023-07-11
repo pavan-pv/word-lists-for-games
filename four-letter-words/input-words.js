@@ -1,4 +1,4 @@
-export const { INPUT_WORDS } = [
+export const INPUT_WORDS = [
   'abet',
   'able',
   'ably',
