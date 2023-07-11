@@ -1,3 +1,4 @@
+// source = https://raw.githubusercontent.com/dwyl/english-words/master/words_dictionary.json
 export const GUESSABLE_WORDS = [
   'aahs',
   'aals',

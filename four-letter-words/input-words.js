@@ -1,3 +1,4 @@
+// source = https://7esl.com/4-letter-words/
 export const INPUT_WORDS = [
   'abet',
   'able',
